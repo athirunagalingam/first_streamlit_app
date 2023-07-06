@@ -1,1 +1,1 @@
-Create the main python file
+print 'Create the main python file'
